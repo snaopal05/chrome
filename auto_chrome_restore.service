@@ -1,0 +1,11 @@
+[Unit]
+Description=Auto Chrome Restore and Press Enter
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/home/user/auto_chrome_restore.sh
+Restart=no
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=google-chrome --restore-last-session
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Google Chrome Restore
+Comment=Open Chrome and restore last session
