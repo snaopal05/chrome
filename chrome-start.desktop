@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=google-chrome --restore-last-session
+Exec=google-chrome --restore-last-session --no-first-run --no-default-browser-check
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
